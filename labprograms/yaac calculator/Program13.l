@@ -1,11 +1,4 @@
-/*
- * Program 13: Lex File for Yacc Calculator
- * 
- * This Lex program provides the lexical analyzer for the Yacc calculator.
- * It recognizes digits and returns the DIGIT token with its value.
- */
 
-//Yacc with lex.l //
 
 %{
  #include<stdio.h>
